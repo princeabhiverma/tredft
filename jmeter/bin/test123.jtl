@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="2999" it="0" lt="2999" ct="2678" ts="1500309553580" s="true" lb="1 / " rc="200" rm="OK" tn="VedamTestCase 1-1" dt="text" by="5491" sby="322" ng="1" na="1"/>
+<httpSample t="586" it="0" lt="586" ct="285" ts="1500309556590" s="true" lb="29 /index.html" rc="200" rm="OK" tn="VedamTestCase 1-1" dt="text" by="5491" sby="368" ng="1" na="1"/>
+<httpSample t="313" it="0" lt="313" ct="0" ts="1500309557178" s="true" lb="About Us" rc="200" rm="OK" tn="VedamTestCase 1-1" dt="text" by="8659" sby="380" ng="1" na="1"/>
+<httpSample t="305" it="0" lt="304" ct="0" ts="1500309557493" s="true" lb="34 /services.html" rc="200" rm="OK" tn="VedamTestCase 1-1" dt="text" by="10728" sby="383" ng="1" na="1"/>
+<httpSample t="304" it="0" lt="303" ct="0" ts="1500309557825" s="true" lb="35 /products.html" rc="200" rm="OK" tn="VedamTestCase 1-1" dt="text" by="8220" sby="384" ng="1" na="1"/>
+<httpSample t="305" it="0" lt="305" ct="0" ts="1500309558131" s="true" lb="36 /clients.html" rc="200" rm="OK" tn="VedamTestCase 1-1" dt="text" by="6491" sby="383" ng="1" na="1"/>
+<httpSample t="298" it="0" lt="298" ct="0" ts="1500309558438" s="true" lb="57 /performance-consulting-case.html" rc="200" rm="OK" tn="VedamTestCase 1-1" dt="text" by="5885" sby="402" ng="1" na="1"/>
+<httpSample t="601" it="0" lt="596" ct="287" ts="1500309558738" s="true" lb="59 /career.html" rc="200" rm="OK" tn="VedamTestCase 1-1" dt="text" by="13244" sby="401" ng="1" na="1"/>
+<httpSample t="302" it="0" lt="302" ct="0" ts="1500309559343" s="true" lb="61 /contact-us.html" rc="200" rm="OK" tn="VedamTestCase 1-1" dt="text" by="5860" sby="384" ng="1" na="1"/>
+
+<httpSample t="662" it="0" lt="662" ct="341" ts="1500309592152" s="true" lb="1 / " rc="200" rm="OK" tn="VedamTestCase 1-1" dt="text" by="5491" sby="322" ng="1" na="1"/>
+<httpSample t="297" it="0" lt="297" ct="0" ts="1500309592832" s="true" lb="29 /index.html" rc="200" rm="OK" tn="VedamTestCase 1-1" dt="text" by="5491" sby="368" ng="1" na="1"/>
+<httpSample t="297" it="0" lt="297" ct="0" ts="1500309593132" s="true" lb="About Us" rc="200" rm="OK" tn="VedamTestCase 1-1" dt="text" by="8659" sby="380" ng="1" na="1"/>
+<httpSample t="319" it="0" lt="318" ct="0" ts="1500309593430" s="true" lb="34 /services.html" rc="200" rm="OK" tn="VedamTestCase 1-1" dt="text" by="10728" sby="383" ng="1" na="1"/>
+<httpSample t="307" it="0" lt="307" ct="0" ts="1500309593751" s="true" lb="35 /products.html" rc="200" rm="OK" tn="VedamTestCase 1-1" dt="text" by="8220" sby="384" ng="1" na="1"/>
+<httpSample t="302" it="0" lt="302" ct="0" ts="1500309594061" s="true" lb="36 /clients.html" rc="200" rm="OK" tn="VedamTestCase 1-1" dt="text" by="6491" sby="383" ng="1" na="1"/>
+<httpSample t="644" it="0" lt="644" ct="278" ts="1500309594364" s="true" lb="57 /performance-consulting-case.html" rc="200" rm="OK" tn="VedamTestCase 1-1" dt="text" by="5885" sby="402" ng="1" na="1"/>
+<httpSample t="301" it="0" lt="294" ct="0" ts="1500309595010" s="true" lb="59 /career.html" rc="200" rm="OK" tn="VedamTestCase 1-1" dt="text" by="13244" sby="401" ng="1" na="1"/>
+<httpSample t="293" it="0" lt="293" ct="0" ts="1500309595314" s="true" lb="61 /contact-us.html" rc="200" rm="OK" tn="VedamTestCase 1-1" dt="text" by="5860" sby="384" ng="1" na="1"/>
+
+<httpSample t="900" it="0" lt="900" ct="502" ts="1505126991175" s="true" lb="1 / " rc="200" rm="OK" tn="VedamTestCase 1-1" dt="text" by="5491" sby="322" ng="1" na="1"/>
+<httpSample t="329" it="0" lt="329" ct="0" ts="1505126992096" s="true" lb="29 /index.html" rc="200" rm="OK" tn="VedamTestCase 1-1" dt="text" by="5491" sby="368" ng="1" na="1"/>
+<httpSample t="315" it="0" lt="315" ct="0" ts="1505126992427" s="true" lb="About Us" rc="200" rm="OK" tn="VedamTestCase 1-1" dt="text" by="8659" sby="380" ng="1" na="1"/>
+<httpSample t="331" it="0" lt="331" ct="0" ts="1505126992744" s="true" lb="34 /services.html" rc="200" rm="OK" tn="VedamTestCase 1-1" dt="text" by="10728" sby="383" ng="1" na="1"/>
+<httpSample t="321" it="0" lt="321" ct="0" ts="1505126993077" s="true" lb="35 /products.html" rc="200" rm="OK" tn="VedamTestCase 1-1" dt="text" by="8220" sby="384" ng="1" na="1"/>
+<httpSample t="833" it="0" lt="833" ct="315" ts="1505126993401" s="true" lb="36 /clients.html" rc="200" rm="OK" tn="VedamTestCase 1-1" dt="text" by="6491" sby="383" ng="1" na="1"/>
+<httpSample t="365" it="0" lt="365" ct="0" ts="1505126994237" s="true" lb="57 /performance-consulting-case.html" rc="200" rm="OK" tn="VedamTestCase 1-1" dt="text" by="5885" sby="402" ng="1" na="1"/>
+<httpSample t="326" it="0" lt="326" ct="0" ts="1505126994604" s="true" lb="59 /career.html" rc="200" rm="OK" tn="VedamTestCase 1-1" dt="text" by="13244" sby="401" ng="1" na="1"/>
+<httpSample t="347" it="0" lt="346" ct="0" ts="1505126994934" s="true" lb="61 /contact-us.html" rc="200" rm="OK" tn="VedamTestCase 1-1" dt="text" by="5860" sby="384" ng="1" na="1"/>
+
+<httpSample t="904" it="0" lt="904" ct="478" ts="1505129442647" s="true" lb="1 / " rc="200" rm="OK" tn="VedamTestCase 1-1" dt="text" by="5491" sby="322" ng="1" na="1"/>
+<httpSample t="322" it="0" lt="322" ct="0" ts="1505129443580" s="true" lb="29 /index.html" rc="200" rm="OK" tn="VedamTestCase 1-1" dt="text" by="5491" sby="368" ng="1" na="1"/>
+<httpSample t="324" it="0" lt="324" ct="0" ts="1505129443905" s="true" lb="About Us" rc="200" rm="OK" tn="VedamTestCase 1-1" dt="text" by="8659" sby="380" ng="1" na="1"/>
+<httpSample t="617" it="0" lt="617" ct="0" ts="1505129444230" s="true" lb="34 /services.html" rc="200" rm="OK" tn="VedamTestCase 1-1" dt="text" by="10728" sby="383" ng="1" na="1"/>
+<httpSample t="618" it="0" lt="618" ct="305" ts="1505129444849" s="true" lb="35 /products.html" rc="200" rm="OK" tn="VedamTestCase 1-1" dt="text" by="8220" sby="384" ng="1" na="1"/>
+<httpSample t="311" it="0" lt="311" ct="0" ts="1505129445469" s="true" lb="36 /clients.html" rc="200" rm="OK" tn="VedamTestCase 1-1" dt="text" by="6491" sby="383" ng="1" na="1"/>
+<httpSample t="312" it="0" lt="312" ct="0" ts="1505129445782" s="true" lb="57 /performance-consulting-case.html" rc="200" rm="OK" tn="VedamTestCase 1-1" dt="text" by="5885" sby="402" ng="1" na="1"/>
+<httpSample t="314" it="0" lt="314" ct="0" ts="1505129446097" s="true" lb="59 /career.html" rc="200" rm="OK" tn="VedamTestCase 1-1" dt="text" by="13244" sby="401" ng="1" na="1"/>
+<httpSample t="306" it="0" lt="306" ct="0" ts="1505129446414" s="true" lb="61 /contact-us.html" rc="200" rm="OK" tn="VedamTestCase 1-1" dt="text" by="5860" sby="384" ng="1" na="1"/>
+
+<httpSample t="802" it="0" lt="802" ct="425" ts="1505129951287" s="true" lb="1 / " rc="200" rm="OK" tn="VedamTestCase 1-1" dt="text" by="5491" sby="322" ng="1" na="1"/>
+<httpSample t="326" it="0" lt="326" ct="0" ts="1505129952116" s="true" lb="29 /index.html" rc="200" rm="OK" tn="VedamTestCase 1-1" dt="text" by="5491" sby="368" ng="1" na="1"/>
+<httpSample t="325" it="0" lt="325" ct="0" ts="1505129952445" s="true" lb="About Us" rc="200" rm="OK" tn="VedamTestCase 1-1" dt="text" by="8659" sby="380" ng="1" na="1"/>
+<httpSample t="327" it="0" lt="327" ct="0" ts="1505129952772" s="true" lb="34 /services.html" rc="200" rm="OK" tn="VedamTestCase 1-1" dt="text" by="10728" sby="383" ng="1" na="1"/>
+<httpSample t="328" it="0" lt="328" ct="0" ts="1505129953102" s="true" lb="35 /products.html" rc="200" rm="OK" tn="VedamTestCase 1-1" dt="text" by="8220" sby="384" ng="1" na="1"/>
+<httpSample t="604" it="0" lt="604" ct="295" ts="1505129953433" s="true" lb="36 /clients.html" rc="200" rm="OK" tn="VedamTestCase 1-1" dt="text" by="6491" sby="383" ng="1" na="1"/>
+<httpSample t="311" it="0" lt="311" ct="0" ts="1505129954042" s="true" lb="57 /performance-consulting-case.html" rc="200" rm="OK" tn="VedamTestCase 1-1" dt="text" by="5885" sby="402" ng="1" na="1"/>
+<httpSample t="311" it="0" lt="311" ct="0" ts="1505129954355" s="true" lb="59 /career.html" rc="200" rm="OK" tn="VedamTestCase 1-1" dt="text" by="13244" sby="401" ng="1" na="1"/>
+<httpSample t="308" it="0" lt="308" ct="0" ts="1505129954671" s="true" lb="61 /contact-us.html" rc="200" rm="OK" tn="VedamTestCase 1-1" dt="text" by="5860" sby="384" ng="1" na="1"/>
+
+</testResults>

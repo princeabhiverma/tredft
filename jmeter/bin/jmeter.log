@@ -1,0 +1,108 @@
+2017-11-16 10:51:36,706 INFO o.a.j.u.JMeterUtils: Setting Locale to en_IN
+2017-11-16 10:51:36,762 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2017-11-16 10:51:36,776 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2017-11-16 10:51:36,795 INFO o.a.j.JMeter: Copyright (c) 1998-2017 The Apache Software Foundation
+2017-11-16 10:51:36,796 INFO o.a.j.JMeter: Version 3.2 r1790748
+2017-11-16 10:51:36,796 INFO o.a.j.JMeter: java.version=1.8.0_131
+2017-11-16 10:51:36,796 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2017-11-16 10:51:36,796 INFO o.a.j.JMeter: os.name=Windows 10
+2017-11-16 10:51:36,796 INFO o.a.j.JMeter: os.arch=amd64
+2017-11-16 10:51:36,796 INFO o.a.j.JMeter: os.version=10.0
+2017-11-16 10:51:36,796 INFO o.a.j.JMeter: file.encoding=Cp1252
+2017-11-16 10:51:36,797 INFO o.a.j.JMeter: Max memory     =1888485376
+2017-11-16 10:51:36,797 INFO o.a.j.JMeter: Available Processors =4
+2017-11-16 10:51:36,818 INFO o.a.j.JMeter: Default Locale=English (India)
+2017-11-16 10:51:36,818 INFO o.a.j.JMeter: JMeter  Locale=English (India)
+2017-11-16 10:51:36,819 INFO o.a.j.JMeter: JMeterHome=C:\jmeter
+2017-11-16 10:51:36,819 INFO o.a.j.JMeter: user.dir  =C:\jmeter\bin
+2017-11-16 10:51:36,819 INFO o.a.j.JMeter: PWD       =C:\jmeter\bin
+2017-11-16 10:51:36,822 INFO o.a.j.JMeter: IP: 192.168.3.31 Name: BCSLAPY-YASHPAL FullName: BCSLAPY-YASHPAL.BCSTECH.IND
+2017-11-16 10:51:37,839 INFO o.a.j.g.a.LookAndFeelCommand: Using look and feel: javax.swing.plaf.metal.MetalLookAndFeel [Metal, CrossPlatform]
+2017-11-16 10:51:37,859 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2017-11-16 10:51:39,132 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2017-11-16 10:51:39,132 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2017-11-16 10:51:41,277 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.assertions.BSFAssertion
+2017-11-16 10:51:42,418 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.extractor.BSFPostProcessor
+2017-11-16 10:51:42,474 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.modifiers.BSFPreProcessor
+2017-11-16 10:51:42,526 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2017-11-16 10:51:42,526 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2017-11-16 10:51:42,526 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2017-11-16 10:51:42,527 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2017-11-16 10:51:42,527 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2017-11-16 10:51:42,527 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2017-11-16 10:51:44,284 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
+2017-11-16 10:51:44,285 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file C:\jmeter\bin\proxyserver.jks
+2017-11-16 10:51:44,700 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.protocol.java.sampler.BSFSampler
+2017-11-16 10:51:44,774 INFO o.a.j.s.FileServer: Default base='C:\jmeter\bin'
+2017-11-16 10:51:44,959 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.protocol.mongodb.config.MongoSourceElement
+2017-11-16 10:51:44,959 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler
+2017-11-16 10:51:46,438 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.timers.BSFTimer
+2017-11-16 10:51:46,484 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.visualizers.BSFListener
+2017-11-16 10:51:46,822 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2017-11-16 10:51:46,822 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2017-11-16 10:51:46,823 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2017-11-16 10:51:46,823 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2017-11-16 10:52:06,321 INFO o.a.j.g.a.Load: Loading file: C:\jmeter\bin\Vedam.jmx
+2017-11-16 10:52:06,322 INFO o.a.j.s.FileServer: Set new base='C:\jmeter\bin'
+2017-11-16 10:52:06,547 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2017-11-16 10:52:06,627 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2017-11-16 10:52:06,630 INFO o.a.j.s.SaveService: Using SaveService properties version 3.2
+2017-11-16 10:52:06,634 INFO o.a.j.s.SaveService: Loading file: C:\jmeter\bin\Vedam.jmx
+2017-11-16 10:52:06,696 INFO o.a.j.p.h.c.CacheManager: Will only cache the following methods: [GET]
+2017-11-16 10:52:06,698 INFO o.a.j.p.h.c.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_
+2017-11-16 10:52:07,038 INFO o.a.j.s.FileServer: Set new base='C:\jmeter\bin'
+2017-11-16 10:52:26,551 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2017-11-16 10:52:26,553 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2017-11-16 10:52:26,554 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2017-11-16 10:52:26,597 INFO o.a.j.r.ResultCollector: Folder at D:\Abhishek Verma Data\apache-jmeter-3.2\bin was created
+2017-11-16 10:52:26,626 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2017-11-16 10:52:27,000 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : VedamTestCase
+2017-11-16 10:52:27,000 INFO o.a.j.e.StandardJMeterEngine: Starting 10 threads for group VedamTestCase.
+2017-11-16 10:52:27,000 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2017-11-16 10:52:27,001 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=10 ramp-up=50 perThread=5000.0 delayedStart=false
+2017-11-16 10:52:27,013 INFO o.a.j.t.JMeterThread: Thread started: VedamTestCase 1-1
+2017-11-16 10:52:27,023 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2017-11-16 10:52:27,024 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2017-11-16 10:52:27,067 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = BCSLAPY-YASHPAL
+2017-11-16 10:52:27,072 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2017-11-16 10:52:28,918 INFO o.a.j.f.LogFunction: VedamTestCase 1-1  :  /aboutus.html
+2017-11-16 10:52:31,327 INFO o.a.j.t.JMeterThread: Thread is done: VedamTestCase 1-1
+2017-11-16 10:52:31,328 INFO o.a.j.t.JMeterThread: Thread finished: VedamTestCase 1-1
+2017-11-16 10:52:32,037 INFO o.a.j.t.JMeterThread: Thread started: VedamTestCase 1-2
+2017-11-16 10:52:32,891 INFO o.a.j.f.LogFunction: VedamTestCase 1-2  :  /aboutus.html
+2017-11-16 10:52:35,177 INFO o.a.j.t.JMeterThread: Thread is done: VedamTestCase 1-2
+2017-11-16 10:52:35,177 INFO o.a.j.t.JMeterThread: Thread finished: VedamTestCase 1-2
+2017-11-16 10:52:37,027 INFO o.a.j.t.JMeterThread: Thread started: VedamTestCase 1-3
+2017-11-16 10:52:37,869 INFO o.a.j.f.LogFunction: VedamTestCase 1-3  :  /aboutus.html
+2017-11-16 10:52:40,136 INFO o.a.j.t.JMeterThread: Thread is done: VedamTestCase 1-3
+2017-11-16 10:52:40,136 INFO o.a.j.t.JMeterThread: Thread finished: VedamTestCase 1-3
+2017-11-16 10:52:42,032 INFO o.a.j.t.JMeterThread: Thread started: VedamTestCase 1-4
+2017-11-16 10:52:42,887 INFO o.a.j.f.LogFunction: VedamTestCase 1-4  :  /aboutus.html
+2017-11-16 10:52:45,154 INFO o.a.j.t.JMeterThread: Thread is done: VedamTestCase 1-4
+2017-11-16 10:52:45,155 INFO o.a.j.t.JMeterThread: Thread finished: VedamTestCase 1-4
+2017-11-16 10:52:47,030 INFO o.a.j.t.JMeterThread: Thread started: VedamTestCase 1-5
+2017-11-16 10:52:47,873 INFO o.a.j.f.LogFunction: VedamTestCase 1-5  :  /aboutus.html
+2017-11-16 10:52:50,188 INFO o.a.j.t.JMeterThread: Thread is done: VedamTestCase 1-5
+2017-11-16 10:52:50,188 INFO o.a.j.t.JMeterThread: Thread finished: VedamTestCase 1-5
+2017-11-16 10:52:52,030 INFO o.a.j.t.JMeterThread: Thread started: VedamTestCase 1-6
+2017-11-16 10:52:52,902 INFO o.a.j.f.LogFunction: VedamTestCase 1-6  :  /aboutus.html
+2017-11-16 10:52:55,186 INFO o.a.j.t.JMeterThread: Thread is done: VedamTestCase 1-6
+2017-11-16 10:52:55,186 INFO o.a.j.t.JMeterThread: Thread finished: VedamTestCase 1-6
+2017-11-16 10:52:57,267 INFO o.a.j.t.JMeterThread: Thread started: VedamTestCase 1-7
+2017-11-16 10:52:58,116 INFO o.a.j.f.LogFunction: VedamTestCase 1-7  :  /aboutus.html
+2017-11-16 10:53:00,390 INFO o.a.j.t.JMeterThread: Thread is done: VedamTestCase 1-7
+2017-11-16 10:53:00,390 INFO o.a.j.t.JMeterThread: Thread finished: VedamTestCase 1-7
+2017-11-16 10:53:02,041 INFO o.a.j.t.JMeterThread: Thread started: VedamTestCase 1-8
+2017-11-16 10:53:02,900 INFO o.a.j.f.LogFunction: VedamTestCase 1-8  :  /aboutus.html
+2017-11-16 10:53:05,193 INFO o.a.j.t.JMeterThread: Thread is done: VedamTestCase 1-8
+2017-11-16 10:53:05,193 INFO o.a.j.t.JMeterThread: Thread finished: VedamTestCase 1-8
+2017-11-16 10:53:07,029 INFO o.a.j.t.JMeterThread: Thread started: VedamTestCase 1-9
+2017-11-16 10:53:07,882 INFO o.a.j.f.LogFunction: VedamTestCase 1-9  :  /aboutus.html
+2017-11-16 10:53:10,170 INFO o.a.j.t.JMeterThread: Thread is done: VedamTestCase 1-9
+2017-11-16 10:53:10,171 INFO o.a.j.t.JMeterThread: Thread finished: VedamTestCase 1-9
+2017-11-16 10:53:12,028 INFO o.a.j.t.JMeterThread: Thread started: VedamTestCase 1-10
+2017-11-16 10:53:12,867 INFO o.a.j.f.LogFunction: VedamTestCase 1-10  :  /aboutus.html
+2017-11-16 10:53:15,145 INFO o.a.j.t.JMeterThread: Thread is done: VedamTestCase 1-10
+2017-11-16 10:53:15,145 INFO o.a.j.t.JMeterThread: Thread finished: VedamTestCase 1-10
+2017-11-16 10:53:15,146 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2017-11-16 10:53:15,157 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
